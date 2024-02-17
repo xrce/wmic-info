@@ -1,24 +1,12 @@
 > [!TIP]
 You can contribute if you want, there's so many things we can do for make it more useful
 
-#
-<div align="center">
-
-```
-
-┏                                    
-MY6U4-RD14N-4N63L-C4NTF-LY1NG
-                                    ┛
-
-```
-
-</div>
-
 ## How it works
 
 This program get windows installed key by this command:
 ```
 C:\> wmic path softwareLicensingService get OA3xOriginalProductKey
+MY6U4-RD14N-4N63L-C4NTF-LY1NG
 ```
 But i just add a little bit of code that used for check if installed key are LIVE or DIE, LIVE meaning you can install the same exact key at different computer running same OS.
 
